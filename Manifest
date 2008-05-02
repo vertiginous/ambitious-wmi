@@ -7,7 +7,7 @@ lib/ambition/adapters/wmi.rb
 LICENSE
 README
 test/helper.rb
-test/select_test.rb
-test/slice_test.rb
-test/sort_test.rb
+test/test_select.rb
+test/test_slice.rb
+test/test_sort.rb
 Manifest
