@@ -1,0 +1,13 @@
+lib/ambition/adapters/wmi/base.rb
+lib/ambition/adapters/wmi/query.rb
+lib/ambition/adapters/wmi/select.rb
+lib/ambition/adapters/wmi/slice.rb
+lib/ambition/adapters/wmi/sort.rb
+lib/ambition/adapters/wmi.rb
+LICENSE
+README
+test/helper.rb
+test/select_test.rb
+test/slice_test.rb
+test/sort_test.rb
+Manifest
